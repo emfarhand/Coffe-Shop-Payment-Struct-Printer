@@ -35,19 +35,11 @@ Cici Coffee Cashier System is designed to:
 
 ---
 
-## 📂 Project Structure
-
-Coffe-Shop-Payment-Struct-Printer/
-├── src/
-│ └── main.c # Source code of the program
-├── README.md # This file
-└── sample_output.txt # Example program output (receipt)
-
 ## ▶️ How to Run
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/emfarhan/Coffe-Shop-Payment-Struct-Printer.git
+   git clone https://github.com/emfarhand/Coffe-Shop-Payment-Struct-Printer.git
    cd Coffe-Shop-Payment-Struct-Printer/src
    ```
 
