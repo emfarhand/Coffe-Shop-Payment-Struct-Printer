@@ -6,7 +6,9 @@ This project simulates a coffee shop cashier system that records orders, calcula
 ---
 
 ## 📌 Project Overview
+
 Cici Coffee Cashier System is designed to:
+
 - Speed up the transaction process in a coffee shop.
 - Reduce manual calculation errors.
 - Practice programming fundamentals in C such as arrays, loops, and input/output handling.
@@ -14,15 +16,17 @@ Cici Coffee Cashier System is designed to:
 ---
 
 ## 🛠️ Tech Stack
+
 - **Language:** C
-- **Libraries:**  
-  - `<stdio.h>` – Input/Output operations  
+- **Libraries:**
+  - `<stdio.h>` – Input/Output operations
   - `<conio.h>` – `getch()` and `system("CLS")` (screen clearing)
 - **Tested on:** Windows 10 with Code::Blocks (can work on any C compiler)
 
 ---
 
 ## 🎯 Features
+
 - **Menu Display:** Shows coffee variants and their prices.
 - **Multiple Orders:** Supports ordering multiple coffee types in one transaction.
 - **Automatic Total Calculation:** Sums up order prices automatically.
@@ -32,13 +36,23 @@ Cici Coffee Cashier System is designed to:
 ---
 
 ## 📂 Project Structure
+
 ├── src/
 │ └── main.c # Source code of the program
 ├── README.md # This file
 ├── sample_output.txt # Example program output (receipt)
 
 ## ▶️ How to Run
+
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/emfarhan/Coffe-Shop-Payment-Struct-Printer.git
    cd Coffe-Shop-Payment-Struct-Printer/src
+   ```
+
+---
+
+## 📬 Contact
+
+Email: farhanlangsa003@gmail.com
+LinkedIn: linkedin.com/in/emfarhand
