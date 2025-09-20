@@ -37,10 +37,11 @@ Cici Coffee Cashier System is designed to:
 
 ## 📂 Project Structure
 
+Coffe-Shop-Payment-Struct-Printer/
 ├── src/
 │ └── main.c # Source code of the program
 ├── README.md # This file
-├── sample_output.txt # Example program output (receipt)
+└── sample_output.txt # Example program output (receipt)
 
 ## ▶️ How to Run
 
